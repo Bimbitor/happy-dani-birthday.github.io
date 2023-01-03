@@ -1,0 +1,23 @@
+{
+  "greeting": "Hola",
+  "name": "Dani",
+  "greetingText": "I know you didn't want anything today but..",
+  "wishText": "keep smiling, you shine like nobody else",
+  "imagePath": "img/lydia2.png",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "Happy birthday to you!! Yeee! blah blah blah...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do. But then I thought, You gave me a bit of your art",
+  "text3": "This is a bit of mine",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "This will be here forever to remind you that you are amazing (or at least until the internet dies)",
+  "replayText": "Watch again?",
+  "outroSmiley": ":)"
+}
